@@ -1,0 +1,24 @@
+/* styles.css */
+
+/* Card styles */
+.card {
+  background-color: #f4f4f4;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  color: #333; /* Adjusted text color for better visibility */
+}
+
+/* Group selector styles */
+.group-selector {
+  margin: 30px 0;
+  color: #333; /* Adjusted text color for better visibility */
+}
+
+/* Kanban board styles */
+.kanban-board {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
